@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm ROHIT DAS</h1>
 <h3 align="center">A passionate frontend React developer from India</h3>
-<img align=“right” alt=“” width=“400” src=“https://camo.githubusercontent.com/130ffc354b6ee3c8c9e506276e598bf4e19ea7950df203dacf6aeee4fc543a50/68747470733a2f2f616e616c7974696373696e6469616d61672e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f31322f646576656c6f7065722d6472696262626c652e676966”>
+<img align=“right” alt=“” width=“400” src=“https://camo.githubusercontent.com/130ffc354b6ee3c8c9e506276e598bf4e19ea7950df203dacf6aeee4fc543a50/68747470733a2f2f616e616c7974696373696e6469616d61672e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f31322f646576656c6f7065722d6472696262626c652e676966” />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitdas78&label=Profile%20views&color=0e75b6&style=flat" alt="rohitdas78" /> </p>
 
@@ -16,12 +16,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@rohit_das_650" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@rohit_das_650" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rohit das" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohit das" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/rohit das" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="rohit das" height="30" width="40" /></a>
-<a href="https://fb.com/rohit das" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rohit das" height="30" width="40" /></a>
-<a href="https://instagram.com/mr._f_a_l_c_o_n_650" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr._f_a_l_c_o_n_650" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/rohit_das_007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rohit_das_007" height="30" width="40" /></a>
+<a href="[https://twitter.com/@rohit_das_650"](https://x.com/Rohit_Das_650) target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@rohit_das_650" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/rohit das](https://www.linkedin.com/in/rohit-das-81b424256/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohit das" height="30" width="40" /></a>
+<a href="[https://stackoverflow.com/users/rohit das](https://stackoverflow.com/users/27156561/rohit-das)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="rohit das" height="30" width="40" /></a>
+<a href="[https://fb.com/rohit das](https://www.facebook.com/shaswati.das.9655)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rohit das" height="30" width="40" /></a>
+<a href="[https://instagram.com/mr._f_a_l_c_o_n_650](https://www.instagram.com/mr._f_a_l_c_o_n_650/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr._f_a_l_c_o_n_650" height="30" width="40" /></a>
+<a href="[https://www.leetcode.com/rohit_das_007](https://leetcode.com/u/Rohit_das_007/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rohit_das_007" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
