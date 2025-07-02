@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm ROHIT DAS</h1>
 <h3 align="center">A passionate frontend React developer from India</h3>
-<img align=“right” alt=“Coding” width=“400” src=“https://raw.githubusercontent.com/gist/Prince-Shivaram/106aa0f37f016eda7ec65de5acb90471/raw/760aff1fe331f8a445d4573aa88fd2ec16e72b83/My-work.gif” />
+<img align=“right” alt=“Coding” width=“400” src=“https://i.pinimg.com/originals/7f/42/96/7f42961ece8c7cd16a1384ffd16812eb.gif”>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitdas78&label=Profile%20views&color=0e75b6&style=flat" alt="rohitdas78" /> </p>
 
