@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Next.js, Express**
 
-- 👨‍💻 All of my projects are available at [https://my-portfolio-odpm.vercel.app/](https://my-portfolio-odpm.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://portfolio-iqat.vercel.app/](https://portfolio-iqat.vercel.app/)
 
 - 💬 Ask me about **React,Node,JS**
 
