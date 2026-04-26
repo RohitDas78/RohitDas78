@@ -1,30 +1,87 @@
-<h1 align="center">Hi 👋, I'm Rohit Das</h1>
-<h3 align="center">A passionate frontend react developer from India</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=45A1FF&center=true&vCenter=true&width=435&lines=Hi+👋,+I'm+Rohit+Das;Full+Stack+Developer;AI+%26+ML+Enthusiast" alt="Typing SVG" />
+</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitdas78&label=Profile%20views&color=0e75b6&style=flat" alt="rohitdas78" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohitdas78" alt="rohitdas78" /></a> </p>
-
-- 🌱 I’m currently learning **Machine Learning**
-
-- 👨‍💻 All of my projects are available at [https://portfolio-iqat.vercel.app/](https://portfolio-iqat.vercel.app/)
-
-- 💬 Ask me about **React, Node, SQL**
-
-- 📫 How to reach me **catch2rohitdas@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/rohit_das_650" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rohit_das_650" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/rohit-das-81b424256/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rohit-das-81b424256/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/shaswati.das.9655" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/shaswati.das.9655" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://portfolio-iqat.vercel.app/"><strong>Explore My Portfolio »</strong></a>
+  <br />
+  <br />
+  <a href="mailto:catch2rohitdas@gmail.com">Email Me</a>
+  •
+  <a href="https://linkedin.com/in/rohit-das-81b424256/">LinkedIn</a>
+  •
+  <a href="https://twitter.com/rohit_das_650">Twitter</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rohitdas78&theme=tokyonight&no-frame=true&margin-w=15" alt="trophies" />
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohitdas78&show_icons=true&locale=en&layout=compact" alt="rohitdas78" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohitdas78&show_icons=true&locale=en" alt="rohitdas78" /></p>
+### 💫 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohitdas78&" alt="rohitdas78" /></p>
+- 🔭 **Expertise:** Specialized in building high-performance **Full Stack Applications** with real-time bidirectional communication.
+- 🌱 **Current Growth:** Deep diving into **Machine Learning** and **AI-driven image synthesis**.
+- ⚡ **Technical Focus:** Real-time architectures (Socket.io), Scalable Backends (Node/Express/Prisma), and modern UI (React/Vite).
+- 💬 **Ask me about:** JavaScript/TypeScript, Database Optimization, and Digital Image Restoration.
+
+---
+
+### 🛠️ Technical Arsenal
+
+<table align="center">
+  <tr>
+    <td align="center" width="250"><strong>Frontend</strong></td>
+    <td align="center" width="250"><strong>Backend & DB</strong></td>
+    <td align="center" width="250"><strong>Mobile & AI</strong></td>
+  </tr>
+  <tr>
+    <td align="vertical-align: top;">
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" /> <br/>
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" /> <br/>
+      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" /> <br/>
+      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+    </td>
+    <td align="vertical-align: top;">
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" /> <br/>
+      <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" /> <br/>
+      <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" /> <br/>
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+    </td>
+    <td align="vertical-align: top;">
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" /> <br/>
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" /> <br/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <br/>
+      <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📊 Performance Metrics
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=rohitdas78&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitdas78&layout=compact&theme=tokyonight&border_radius=10" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=rohitdas78&theme=tokyonight&border_radius=10" />
+</p>
+
+---
+
+### 📁 Featured Projects
+- **Real-Time Messaging Platform:** Built with Vite, React, and Socket.io for seamless 1:1 communication.
+- **Hospital Management System:** Integrated Prisma and Node.js for robust data handling.
+- **AI Restoration Tools:** Focused on photo enhancement and stylistic transformation.
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Profile_Views-0e75b6?style=for-the-badge&logo=eye&logoColor=white" />
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=rohitdas78&color=0e75b6&style=flat-square&label=TOTAL+VISITS" />
+</p>
